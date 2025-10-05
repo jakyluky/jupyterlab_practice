@@ -1,0 +1,4 @@
+name: test_env
+channels:
+  - defaults
+prefix: C:\Users\jacks\miniconda3\envs\test_env
