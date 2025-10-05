@@ -1,4 +1,7 @@
 name: test_env
 channels:
   - defaults
+dependencies:
+  - python=3.10
+  - jupyterlab
 prefix: C:\Users\jacks\miniconda3\envs\test_env
